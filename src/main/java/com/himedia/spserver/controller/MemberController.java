@@ -56,7 +56,7 @@ public class MemberController {
 
     @GetMapping("/test")
     public String test(){
-        return "AWS SpringBoot Service Test2";
+        return "AWS SpringBoot Service Test3";
     }
 
     @GetMapping("/getLoginUser")
